@@ -3,7 +3,7 @@ import "../styles/videoComponent.css";
 import { useRef } from "react";
 import TextField from "@mui/material/TextField";
 import { Button } from '@mui/material';
-
+const server="dfs";
 const server_url="http://localhost:8000";
 var connections={};
 
